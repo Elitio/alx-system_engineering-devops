@@ -1,2 +1,2 @@
-#!/bin/bash
-The path of the current working directory is: $(pwd)
+#!/bin/bash\r\n
+The path of the current working directory is: $(pwd)\r\n
