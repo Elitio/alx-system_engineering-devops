@@ -1,3 +1,0 @@
-#!/bin/bash
-current_file_dir = $(pwd)
-The path of the current working directory is $current_file_dir
