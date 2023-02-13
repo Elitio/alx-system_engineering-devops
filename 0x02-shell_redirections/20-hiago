@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "/[C]*/gi" -delete
+tr -d 'Cc'
